@@ -1,1 +1,55 @@
-tmp
+{
+  "name": "Ahmed's AltStore & SideStore Source",
+  "identifier": "com.ahmedziyanmohamed.prvt-repo",
+  "subtitle": "Nightly and latest iOS apps",
+  "description": "A source compatible with AltStore and SideStore.",
+  "website": "https://github.com/ahmedziyanmohamed/prvt-repo",
+  "apps": [
+    {
+      "name": "SideStore Nightly",
+      "bundleIdentifier": "com.SideStore.SideStore",
+      "developerName": "SideStore",
+      "localizedDescription": "The latest nightly build of SideStore.",
+      "iconURL": "https://raw.githubusercontent.com/SideStore/SideStore/develop/SideStore/Assets.xcassets/AppIcon.appiconset/AppIcon-512@2x.png",
+      "versions": [
+        {
+          "version": "nightly",
+          "date": "2026-09-18T00:00:00Z",
+          "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
+          "localizedDescription": "Latest SideStore nightly build."
+        }
+      ]
+    },
+    {
+      "name": "LiveContainer Nightly",
+      "bundleIdentifier": "com.kdt.livecontainer",
+      "developerName": "LiveContainer",
+      "localizedDescription": "Run iOS apps without actually installing them. This is the latest nightly build.",
+      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/LiveContainer/Assets.xcassets/AppIcon.appiconset/AppIcon-512@2x.png",
+      "versions": [
+        {
+          "version": "nightly",
+          "date": "2026-09-18T00:00:00Z",
+          "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
+          "localizedDescription": "Latest LiveContainer nightly build."
+        }
+      ]
+    },
+    {
+      "name": "Mangayomi",
+      "bundleIdentifier": "com.kodjodevf.mangayomi",
+      "developerName": "kodjodevf",
+      "localizedDescription": "A free and open-source app for reading manga and novels and watching anime.",
+      "iconURL": "https://raw.githubusercontent.com/kodjodevf/mangayomi/main/assets/icon/icon.png",
+      "versions": [
+        {
+          "version": "0.9.5",
+          "date": "2026-09-18T16:45:07Z",
+          "downloadURL": "https://github.com/kodjodevf/mangayomi/releases/download/v0.9.5/Mangayomi-v0.9.5-ios.ipa",
+          "localizedDescription": "Latest Mangayomi iOS release."
+        }
+      ]
+    }
+  ],
+  "news": []
+}
