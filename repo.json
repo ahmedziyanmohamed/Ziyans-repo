@@ -1,22 +1,22 @@
 {
   "name": "Ahmed's AltStore & SideStore Source",
-  "identifier": "com.ahmedziyanmohamed.prvt-repo",
-  "subtitle": "Nightly and latest iOS apps",
-  "description": "A source compatible with AltStore and SideStore.",
-  "website": "https://github.com/ahmedziyanmohamed/prvt-repo",
+  "identifier": "com.ahmedziyanmohamed.prvtrepo",
+  "sourceURL": "https://raw.githubusercontent.com/ahmedziyanmohamed/prvt-repo/main/repo.json",
   "apps": [
     {
       "name": "SideStore Nightly",
       "bundleIdentifier": "com.SideStore.SideStore",
       "developerName": "SideStore",
-      "localizedDescription": "The latest nightly build of SideStore.",
       "iconURL": "https://raw.githubusercontent.com/SideStore/SideStore/develop/SideStore/Assets.xcassets/AppIcon.appiconset/AppIcon-512@2x.png",
+      "localizedDescription": "Experimental nightly build of SideStore.",
+      "beta": true,
       "versions": [
         {
-          "version": "nightly",
-          "date": "2026-09-18T00:00:00Z",
+          "version": "0.7.0-20260918.1471+479c2b71",
+          "date": "2026-09-18",
           "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-          "localizedDescription": "Latest SideStore nightly build."
+          "size": 0,
+          "localizedDescription": "Experimental SideStore nightly build. Use at your own risk."
         }
       ]
     },
@@ -24,14 +24,16 @@
       "name": "LiveContainer Nightly",
       "bundleIdentifier": "com.kdt.livecontainer",
       "developerName": "LiveContainer",
-      "localizedDescription": "Run iOS apps without actually installing them. This is the latest nightly build.",
       "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/LiveContainer/Assets.xcassets/AppIcon.appiconset/AppIcon-512@2x.png",
+      "localizedDescription": "Nightly build of LiveContainer for running iOS apps without installing them.",
+      "beta": true,
       "versions": [
         {
-          "version": "nightly",
-          "date": "2026-09-18T00:00:00Z",
+          "version": "3.8.0",
+          "date": "2026-09-18",
           "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
-          "localizedDescription": "Latest LiveContainer nightly build."
+          "size": 0,
+          "localizedDescription": "LiveContainer nightly build."
         }
       ]
     },
@@ -39,17 +41,17 @@
       "name": "Mangayomi",
       "bundleIdentifier": "com.kodjodevf.mangayomi",
       "developerName": "kodjodevf",
-      "localizedDescription": "A free and open-source app for reading manga and novels and watching anime.",
       "iconURL": "https://raw.githubusercontent.com/kodjodevf/mangayomi/main/assets/icon/icon.png",
+      "localizedDescription": "Open-source app for reading manga and novels and watching anime.",
       "versions": [
         {
           "version": "0.9.5",
-          "date": "2026-09-18T16:45:07Z",
+          "date": "2026-09-18",
           "downloadURL": "https://github.com/kodjodevf/mangayomi/releases/download/v0.9.5/Mangayomi-v0.9.5-ios.ipa",
+          "size": 0,
           "localizedDescription": "Latest Mangayomi iOS release."
         }
       ]
     }
-  ],
-  "news": []
+  ]
 }
