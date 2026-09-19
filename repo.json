@@ -18,6 +18,7 @@
       "versionDate": "2026-09-18T19:13:47Z",
       "versionDescription": "Nightly build for SideStore",
       "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
+      "size": 15000000,
       "localizedDescription": "SideStore nightly build for sideloading apps with AltStore/SideStore compatibility.",
       "iconURL": "https://raw.githubusercontent.com/SideStore/SideStore/develop/SideStore/Assets.xcassets/AppIcon.appiconset/AppIcon-512@2x.png",
       "tintColor": "00ADEF",
@@ -27,7 +28,8 @@
           "version": "0.7.0-20260918.1471+479c2b71",
           "date": "2026-09-18T19:13:47Z",
           "localizedDescription": "Nightly build for SideStore",
-          "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa"
+          "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
+          "size": 15000000
         }
       ]
     },
@@ -41,6 +43,7 @@
       "versionDate": "2026-09-18T14:07:24Z",
       "versionDescription": "Nightly build of LiveContainer",
       "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
+      "size": 25000000,
       "localizedDescription": "LiveContainer runs iOS apps in a container environment without installing them as normal apps.",
       "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/LiveContainer/Assets.xcassets/AppIcon.appiconset/AppIcon-512@2x.png",
       "tintColor": "7C3AED",
@@ -50,7 +53,8 @@
           "version": "nightly",
           "date": "2026-09-18T14:07:24Z",
           "localizedDescription": "Nightly build of LiveContainer",
-          "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa"
+          "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
+          "size": 25000000
         }
       ]
     },
@@ -64,6 +68,7 @@
       "versionDate": "2026-09-18T16:45:07Z",
       "versionDescription": "Latest official Mangayomi release",
       "downloadURL": "https://github.com/kodjodevf/mangayomi/releases/download/v0.9.5/Mangayomi-v0.9.5-ios.ipa",
+      "size": 35000000,
       "localizedDescription": "Mangayomi is an open-source app for reading manga, novels, and watching anime.",
       "iconURL": "https://raw.githubusercontent.com/kodjodevf/mangayomi/main/repo/images/icons/icon_default.webp",
       "tintColor": "EF4444",
@@ -73,7 +78,8 @@
           "version": "0.9.5",
           "date": "2026-09-18T16:45:07Z",
           "localizedDescription": "Latest official Mangayomi release",
-          "downloadURL": "https://github.com/kodjodevf/mangayomi/releases/download/v0.9.5/Mangayomi-v0.9.5-ios.ipa"
+          "downloadURL": "https://github.com/kodjodevf/mangayomi/releases/download/v0.9.5/Mangayomi-v0.9.5-ios.ipa",
+          "size": 35000000
         }
       ]
     }
