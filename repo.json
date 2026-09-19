@@ -82,7 +82,63 @@
           "size": 35000000
         }
       ]
+    },
+    {
+  "beta": false,
+  "name": "Lara",
+  "bundleIdentifier": "com.roooot.lara",
+  "developerName": "rooootdev",
+  "subtitle": "Movie & TV show tracking app",
+  "version": "1.0.0",
+  "versionDate": "2026-09-19T00:00:00Z",
+  "versionDescription": "Lara app release by rooootdev",
+  "downloadURL": "YOUR_DIRECT_DOWNLOAD_URL_HERE",
+  "size": 7235174,
+  "minOSVersion": "15.0",
+  "localizedDescription": "Lara is a media tracking app for keeping up with movies and TV shows.",
+  "iconURL": "https://raw.githubusercontent.com/rooootdev/lara/main/assets/icon.png",
+  "tintColor": "E50914",
+  "category": "entertainment",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "date": "2026-09-19T00:00:00Z",
+      "localizedDescription": "Lara app release by rooootdev",
+      "downloadURL": "YOUR_DIRECT_DOWNLOAD_URL_HERE",
+      "size": 7235174,
+      "minOSVersion": "15.0"
     }
+  ]
+},
+{
+  "beta": false,
+  "name": "Spotify (Eevee)",
+  "bundleIdentifier": "com.spotify.client",
+  "developerName": "Eevee",
+  "subtitle": "Modified Spotify client",
+  "version": "9.1.0",
+  "versionDate": "2025-12-26T20:54:00Z",
+  "versionDescription": "Spotify v9.1.0 patched with EeveeSpotify",
+  "downloadURL": "YOUR_DIRECT_DOWNLOAD_URL_HERE",
+  "size": 96468992,
+  "minOSVersion": "16.0",
+  "localizedDescription": "Spotify modified with the EeveeSpotify tweak to customize playback options, hide ads, and tweak settings.",
+  "iconURL": "https://cdn-icons-png.flaticon.com/512/2111/2111624.png",
+  "tintColor": "1DB954",
+  "category": "music",
+  "versions": [
+    {
+      "version": "9.1.0",
+      "date": "2025-12-26T20:54:00Z",
+      "localizedDescription": "Spotify v9.1.0 patched with EeveeSpotify",
+      "downloadURL": "YOUR_DIRECT_DOWNLOAD_URL_HERE",
+      "size": 96468992,
+      "minOSVersion": "16.0"
+    }
+  ]
+}
+
+
   ],
   "news": []
 }
